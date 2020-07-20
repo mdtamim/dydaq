@@ -59,7 +59,7 @@ Please start with these [Basics and Examples](tutorial/1-0-DyDaQBasics.md)
 2. Generate metadata class from the entities -> [DyDaQ GraphQL DDQ Metadata Class Generation guidelines](tutorial/1-2-MetaClassGeneration.md)
 3. Leverage DyDaQ APIs to enable your data -> [DyDaQ GraphQL DDQ Query Development](tutorial/1-3-QueryDevelopment.md)   
 
-##### [Sample Application to Try](graphql-ddq-example/README.md)     
+##### [Sample Application to Try and Build Your own App](graphql-ddq-example/README.md)     
 ***
 
 ### Contributing
